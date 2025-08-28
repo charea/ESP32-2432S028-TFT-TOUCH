@@ -1,5 +1,8 @@
+Copied .pio/libdeps/nodemcu-32s/TFT_eSPI/User_Setup.h to ./User_Setup.h.backup
 
-This directory is intended for project specific (private) libraries.
+
+
+his directory is intended for project specific (private) libraries.
 PlatformIO will compile them to static libraries and link into the executable file.
 
 The source code of each library should be placed in a separate directory
